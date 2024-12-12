@@ -8,4 +8,5 @@ These scripts include:
 - Objects for converting Google Sheets into data manageable in programming.
 - Automatically scheduled API retrieval and formatting.
 - Revenue and percentage of revenue calculations.
-- 
+- Automatique data trimming for use by student workers, who (by policy) are not allowed to see personal information available to management.
+- Outlier finding scripts, used (for example) when finding students who were incorrectly housed based on age, sex, or other metrics.
